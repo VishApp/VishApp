@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Building scalable software systems and exploring AI-driven automation<br><br>Collaborating on open-source and cloud projects<br><br>Seeking help with UI/UX and performance optimization<br><br>Learning GoLang, Kubernetes, and AI frameworks<br><br>Ask me about Python, DevOps, or cloud architecture<br><br>I start my day early, code hard, and never skip the gym
+Building scalable software systems and exploring AI-driven automation<br><br>Collaborating on open-source and cloud projects<br><br>Seeking help with UI/UX and performance optimization<br><br>Learning GoLang, Rust, Kubernetes, and AI frameworks<br><br>Ask me about Python, DevOps, or cloud architecture<br><br>I start my day early, code hard, and never skip the gym
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishapp)
